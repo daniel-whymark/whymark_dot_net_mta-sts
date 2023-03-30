@@ -1,0 +1,4 @@
+Contact: mailto:admin@whymark.net
+Contact: https://github.com/daniel-whymark/whymark_dot_net_mta-sts/issues/new
+Preferred-Languages: en
+Canonical: https://whymark.net/security.txt
